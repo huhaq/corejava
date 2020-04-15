@@ -1,5 +1,6 @@
 package com.haq.java8.corejava;
 
+// Added comment in forked centipedeftc
 public class LambdaExpressions {
 	public static void main(String[] args) {
 		new LambdaExpressions().printExpression();
